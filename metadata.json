@@ -1,0 +1,7 @@
+{
+  "name": "SKM - PodBot",
+  "description": "An AI-powered real-time voice tutor that helps students reflect on any topic through natural conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
